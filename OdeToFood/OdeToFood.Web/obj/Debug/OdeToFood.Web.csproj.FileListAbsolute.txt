@@ -99,3 +99,12 @@ C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Memory
 C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Numerics.Vectors.xml
 C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.dll
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
