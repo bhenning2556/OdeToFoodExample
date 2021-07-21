@@ -14,6 +14,8 @@ namespace OdeToFood.Data.Models
         Vietnamese,
         Japanese,
         Chinese,
-        American
+        American,
+        Mexican,
+        Korean
     }
 }
