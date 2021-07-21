@@ -108,3 +108,8 @@ C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Ht
 C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
 C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
 C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll.config
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+C:\Users\Ben\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml

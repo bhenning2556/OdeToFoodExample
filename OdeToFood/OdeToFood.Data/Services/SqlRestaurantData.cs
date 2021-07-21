@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OdeToFood.Data.Services
 {
-    class SqlRestaurantData : IRestaurantData
+    public class SqlRestaurantData : IRestaurantData
     {
         private readonly OdeToFoodDbContext db;
 
@@ -20,6 +20,13 @@ namespace OdeToFood.Data.Services
         public void Add(Restaurant restaurant)
         {
             db.Restaurants.Add(restaurant);
+            db.SaveChanges();
+        }
+
+        public void Delete(int id)
+        {
+            var restaurant = db.Restaurants.Find(id);
+            db.Restaurants.Remove(restaurant);
             db.SaveChanges();
         }
 
